@@ -1,0 +1,11 @@
+{
+  "name": "blockapps",
+  "version": "1.0.0",
+  "description": "blockapps",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "dzung-than",
+  "license": "ISC"
+}
